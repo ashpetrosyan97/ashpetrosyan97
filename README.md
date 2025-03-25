@@ -2,7 +2,7 @@
 
 🚀 Senior Software Engineer
 
-💡 Minimalist developer focused on performance, scalability, and elegant design
+💡 Minimalist developer focused on performance, scalability and elegant design
 
 ---
 
